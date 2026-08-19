@@ -1,0 +1,4 @@
+run_id,batch_name,started_at,ended_at,rows_read,rows_valid,rows_rejected,rows_loaded,status
+1,orders_batch_1,2026-08-19 01:40:30,2026-08-19 01:40:30,420,389,31,389,SUCCESS
+2,orders_batch_2,2026-08-19 01:40:30,2026-08-19 01:40:30,423,386,37,385,SUCCESS
+3,orders_batch_3,2026-08-19 01:40:30,2026-08-19 01:40:30,421,386,35,385,SUCCESS
